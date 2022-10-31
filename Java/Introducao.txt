@@ -1,0 +1,7 @@
+Java e uma linguagem de programacao simples, orientada a objetos que foi projetada para ser executada em qualquer sistema.
+
+Nasceu de uma pesquisa interna na Sun Microsystems em 1991 com o codinome Green. O projeto resultou no desenvolvimento de uma linguagem baseada em C e C++ inicialmente chamada de Oak, porem ao descobrirem que ja existia uma linguagem de computador com esse mesmo nome, fez-se a mudanca para o nome Java.
+
+Mesmo passando por dificuldades no comeco, Java conseguiu o interesse do publico com a explosao da World Wide Web em 1993, onde a linguagem permitia a criacoo de paginas web com conteido dinamico.
+
+Foi adquirida pela Oracle mais tarde e esta presente em todos os sistemas modernos, desde smartphones ate servidores em grandes datacenters.
