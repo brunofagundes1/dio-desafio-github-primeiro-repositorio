@@ -1,0 +1,3 @@
+[submodule "Java/Java/dio-java-basico"]
+	path = Java/Java/dio-java-basico
+	url = https://github.com/brunofagundes1/dio-java-basico.git
